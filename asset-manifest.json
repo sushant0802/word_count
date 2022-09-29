@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/word_count/static/css/main.ed198fee.chunk.css",
+    "main.js": "/word_count/static/js/main.ffaa50b9.chunk.js",
+    "main.js.map": "/word_count/static/js/main.ffaa50b9.chunk.js.map",
+    "runtime-main.js": "/word_count/static/js/runtime-main.8a977e72.js",
+    "runtime-main.js.map": "/word_count/static/js/runtime-main.8a977e72.js.map",
+    "static/js/2.3e4f6ff1.chunk.js": "/word_count/static/js/2.3e4f6ff1.chunk.js",
+    "static/js/2.3e4f6ff1.chunk.js.map": "/word_count/static/js/2.3e4f6ff1.chunk.js.map",
+    "static/js/3.8e1fd0c0.chunk.js": "/word_count/static/js/3.8e1fd0c0.chunk.js",
+    "static/js/3.8e1fd0c0.chunk.js.map": "/word_count/static/js/3.8e1fd0c0.chunk.js.map",
+    "index.html": "/word_count/index.html",
+    "static/css/main.ed198fee.chunk.css.map": "/word_count/static/css/main.ed198fee.chunk.css.map",
+    "static/js/2.3e4f6ff1.chunk.js.LICENSE.txt": "/word_count/static/js/2.3e4f6ff1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a977e72.js",
+    "static/js/2.3e4f6ff1.chunk.js",
+    "static/css/main.ed198fee.chunk.css",
+    "static/js/main.ffaa50b9.chunk.js"
+  ]
+}
